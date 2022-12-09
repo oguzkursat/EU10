@@ -6,6 +6,9 @@ public class SecondClass {
     }
         //line 1 for second class
         //line 2 for second class
+    //line5
+    //line 3
+    //line4
     //line3
     //line4
 
