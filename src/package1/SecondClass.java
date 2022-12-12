@@ -12,7 +12,6 @@ public class SecondClass {
     //new line
 
     //again coll.
-=======
     //collobarator
 
 
